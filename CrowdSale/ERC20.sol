@@ -1,6 +1,6 @@
 /* This file is a flattened version of OpenZeppelin (https://github.com/OpenZeppelin) 
- * MintableToken.sol so as to fix the code base and simplify compilation in Remix 
- * with no external dependencies 
+ * MintableToken.sol so as to fix the code base and simplify compilation in Remix etc..
+ * with no external dependencies. 
  */
 
 pragma solidity ^0.4.18;
